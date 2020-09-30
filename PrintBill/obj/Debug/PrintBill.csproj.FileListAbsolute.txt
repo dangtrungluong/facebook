@@ -1,0 +1,5 @@
+C:\Users\-\Desktop\PrintBill\bin\Debug\PrintBill.exe
+C:\Users\-\Desktop\PrintBill\bin\Debug\PrintBill.pdb
+C:\Users\-\Desktop\PrintBill\obj\Debug\PrintBill.csprojAssemblyReference.cache
+C:\Users\-\Desktop\PrintBill\obj\Debug\PrintBill.exe
+C:\Users\-\Desktop\PrintBill\obj\Debug\PrintBill.pdb
